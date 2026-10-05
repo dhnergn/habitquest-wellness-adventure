@@ -1,0 +1,7 @@
+{
+  "name": "HabitQuest: Wellness Adventure",
+  "description": "An interactive educational health and wellness game for students ages 8-14 to build healthy habits across nutrition, physical activity, sleep, hygiene, and mental wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
